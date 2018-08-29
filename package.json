@@ -1,6 +1,6 @@
 {
   "name": "vue-component-dateselect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typescript+vue开发的日期滚轮组件，基于iosselect库进行封装，简单易用",
   "main": "./dist/index.js",
   "scripts": {
