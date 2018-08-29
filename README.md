@@ -4,9 +4,11 @@ typescript+vue开发的日期滚轮组件，基于iosselect库进行封装，简
 
 **备注**：该日期滚轮组件，目前只是支持3级的定义，最后感谢**iOSselect**库的开发者跟维护者们
 
-### iOSselect
+[![npm](https://img.shields.io/npm/l/vue-component-dateselect.svg)](LICENSE)
+[![NPM Version](https://img.shields.io/npm/v/vue-component-dateselect.svg)](https://www.npmjs.com/package/vue-component-dateselect)
+[![npm](https://img.shields.io/npm/dt/vue-component-dateselect.svg)](https://www.npmjs.com/package/vue-component-dateselect)
 
-打赏本项目：![image](https://github.com/zhoushengmufc/iosselect/blob/master/zhifubao.jpg)
+### iOSselect
 
 html下拉菜单select在安卓和IOS下表现不一样，iosselect正是为统一下拉菜单样式而生，我们以IOS下select的交互和样式为蓝本，开发了这一组件。
 
@@ -34,7 +36,7 @@ http://zhoushengfe.com/iosselect/website/index.html
 
 **组件通过v-model数据双向绑定来控制显示跟隐藏**
 
-![image](https://github.com/ljcheibao/vue-component-dateselect/blob/master/images/one.png)
+![image](https://raw.githubusercontent.com/ljcheibao/vue-component-dateselect/master/images/one.png)
 
 - 安装组件包
   ```
